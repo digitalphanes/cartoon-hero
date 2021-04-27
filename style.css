@@ -5,6 +5,7 @@ body {
 h1 {
   font-size: 30px;
   color: red;
+  background: linear-gradient(to left, #8942a8, #ba382f);
 }
 .big {
   color: seagreen;
@@ -19,4 +20,9 @@ h1 {
 
 span {
   color: purple;
+}
+
+.hh {
+  padding-top: 110px;
+  background: linear-gradient(to right, #8942a8, #ba382f);
 }
